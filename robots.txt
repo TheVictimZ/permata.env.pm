@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://permata.env.pm/sitemap.xml
